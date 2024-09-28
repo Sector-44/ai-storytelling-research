@@ -13,3 +13,7 @@ http://www.shixialiu.com/publications/storyflow/paper.pdf
 Network visualization techniques for story charting
 https://arxiv.org/pdf/2406.14734
 
+#Github
+Effective Converges to Hand-drawn Storylines
+https://istoryline.github.io/
+
